@@ -50,9 +50,3 @@ The analysis includes:
 
 ---
 
-## Getting Started
-To get started with the analysis, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loan-status-analysis.git
